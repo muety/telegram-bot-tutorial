@@ -1,6 +1,7 @@
 # telegram-bot-tutorial
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RTBP64PZDPDZW)
+[![Say thanks](https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg)](https://saythanks.io/to/n1try)
 
 Code of my video tutorial on how to create a basic **ToDo** application as a **Telegram bot** using Node.js and the [telegram-node-bot](https://github.com/Naltox/telegram-node-bot) framework.
 
